@@ -36,15 +36,19 @@ src/
 
 ## 📦 Installation & Setup
 
-### Clone the Repository
+### 📥 Clone the Repository
 ```bash
 git clone https://github.com/yourusername/react-multi-page-router.git
 cd react-multi-page-router
+```
 
 ### 🛠️ Install Dependencies
 ```bash
 npm install
+```
 
 ### ⚡ Start Development Server
 ```bash
 npm start
+```
+
