@@ -15,7 +15,7 @@ This project is a simple multi-page React application demonstrating routing usin
 ---
 
 ## 📂 Project Structure
-
+```bash
 src/
 ├─ components/
 │ ├─ Layout.jsx
@@ -31,6 +31,7 @@ src/
 ├─ App.jsx
 ├─ index.css
 └─ main.jsx
+```
 
 ---
 
