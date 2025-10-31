@@ -21,6 +21,7 @@ src/
 │ ├─ Layout.jsx
 │ ├─ Navbar.jsx
 │ └─ Footer.jsx
+│ └─ UserCard.jsx
 │
 ├─ pages/
 │ ├─ Home.jsx

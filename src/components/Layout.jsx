@@ -7,10 +7,10 @@ function Layout() {
   return (
     <>
       <Navbar />
-      <main>
+      <main className="container mx-auto">
         <Outlet />
       </main>
-      <Footer />
+      {/* <Footer /> */}
     </>
   );
 }
