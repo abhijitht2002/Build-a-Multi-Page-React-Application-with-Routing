@@ -7,9 +7,15 @@ function Navbar() {
       <h1>Navbar</h1>
 
       <ul className="flex gap-8">
-        <li><Link to="/">Home</Link></li>
-        <li><Link to="/about">About</Link></li>
-        <li><Link to="/users">Users</Link></li>
+        <li className="hover:underline">
+          <Link to="/">Home</Link>
+        </li>
+        <li className="hover:underline">
+          <Link to="/about">About</Link>
+        </li>
+        <li className="hover:underline">
+          <Link to="/users">Users</Link>
+        </li>
       </ul>
     </div>
   );
