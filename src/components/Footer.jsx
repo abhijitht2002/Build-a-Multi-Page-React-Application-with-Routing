@@ -13,9 +13,9 @@ function Footer() {
 
         {/* Links */}
         <div className="flex gap-6 text-sm">
-          <Link to="/" className="hover:text-white transition">Home</Link>
-          <Link to="/about" className="hover:text-white transition">About</Link>
-          <Link to="/users" className="hover:text-white transition">Users</Link>
+          <Link to="/Build-a-Multi-Page-React-Application-with-Routing" className="hover:text-white transition">Home</Link>
+          <Link to="/Build-a-Multi-Page-React-Application-with-Routing/about" className="hover:text-white transition">About</Link>
+          <Link to="/Build-a-Multi-Page-React-Application-with-Routing/users" className="hover:text-white transition">Users</Link>
         </div>
 
         {/* Copyright */}

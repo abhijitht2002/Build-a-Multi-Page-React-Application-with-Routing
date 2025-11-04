@@ -11,7 +11,7 @@ function UserDetail() {
     <div className="flex flex-col px-6 py-8">
       <div className="w-full mb-6">
         <Link
-          to="/users"
+          to="/Build-a-Multi-Page-React-Application-with-Routing/users"
           className="flex items-center gap-2 text-blue-600 hover:text-blue-800 font-medium"
         >
           go back

@@ -5,5 +5,5 @@ import tailwindcss from '@tailwindcss/vite'
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [react(), tailwindcss()],
-  // base: "/Build-a-Multi-Page-React-Application-with-Routing/"
+  base: "/Build-a-Multi-Page-React-Application-with-Routing/"
 })

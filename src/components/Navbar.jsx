@@ -8,13 +8,13 @@ function Navbar() {
 
       <ul className="flex gap-8">
         <li className="hover:underline">
-          <Link to="/">Home</Link>
+          <Link to="/Build-a-Multi-Page-React-Application-with-Routing">Home</Link>
         </li>
         <li className="hover:underline">
-          <Link to="/about">About</Link>
+          <Link to="/Build-a-Multi-Page-React-Application-with-Routing/about">About</Link>
         </li>
         <li className="hover:underline">
-          <Link to="/users">Users</Link>
+          <Link to="/Build-a-Multi-Page-React-Application-with-Routing/users">Users</Link>
         </li>
       </ul>
     </div>

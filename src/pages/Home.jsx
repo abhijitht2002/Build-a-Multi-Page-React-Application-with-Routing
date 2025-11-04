@@ -16,14 +16,14 @@ function Home() {
 
       <div className="flex gap-4">
         <Link
-          to="/users"
+          to="/Build-a-Multi-Page-React-Application-with-Routing/users"
           className="px-6 py-3 bg-blue-600 text-white rounded-lg font-medium hover:bg-blue-700 transition"
         >
           View Users
         </Link>
 
         <Link
-          to="/about"
+          to="/Build-a-Multi-Page-React-Application-with-Routing/about"
           className="px-6 py-3 border border-blue-600 text-blue-600 rounded-lg font-medium hover:bg-blue-50 transition"
         >
           About Us

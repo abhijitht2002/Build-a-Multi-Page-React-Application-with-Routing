@@ -12,7 +12,7 @@ function Card({ user }) {
       <div className="flex flex-col items-end ml-4">
         <h2 className="font-semibold text-gray-800">{user.name}</h2>
         <Link
-          to={`/users/${user.id}`}
+          to={`/Build-a-Multi-Page-React-Application-with-Routing/users/${user.id}`}
           className="text-blue-600 hover:text-blue-800 text-sm font-medium underline"
         >
           View Details
