@@ -18,10 +18,10 @@ This project is a simple multi-page React application demonstrating routing usin
 ```bash
 src/
 ├─ components/
+│ ├─ Card.jsx
 │ ├─ Layout.jsx
 │ ├─ Navbar.jsx
 │ └─ Footer.jsx
-│ └─ UserCard.jsx
 │
 ├─ pages/
 │ ├─ Home.jsx
@@ -32,6 +32,7 @@ src/
 ├─ App.jsx
 ├─ index.css
 └─ main.jsx
+└─ users.js
 ```
 
 ---
